@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(221, 59, 200);
+}
+
+.mydiv {
+    margin: auto 100px;
+    background-color: rgb(73, 224, 131);
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center;
+    height: 200px;
+}
+
+.mydiv div {
+    display: none;
+    color: aliceblue;
+    font-size: 70px;
+}
+
+button {
+    height: 20px;
+}
